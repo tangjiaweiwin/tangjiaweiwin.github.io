@@ -1,0 +1,103 @@
+/* Page1 */
+h1{
+    color:rebeccapurple;
+    font-size: 100px;
+}
+a:hover{
+    background-color:white;
+    color:black;
+}
+a{
+    color:white;
+    text-decoration:none;
+    border: solid;
+    padding:5px;
+    margin: 20px;
+    font-size: 20px;
+}
+
+
+/* Page2 */
+body{
+ background-color: rgb(165,162,190);
+}
+input:hover{
+ background-color: rgb(234,181,165);
+}
+input{
+ background-color: rgb(205,146,132);
+ line-height: 16px;
+}
+label{
+ line-height: 90px;
+ font-size: 18px;
+ color: rgb(65, 65, 120);
+}
+h2{
+ font-size: 50px;
+ color: rgb(65, 65, 120);
+ text-shadow: 4px 3px 3px rgb(105, 105, 105);
+}
+a{
+ text-decoration: none;
+ border: 15px solid rgb(234,181,165);
+ font-size: 25px;
+ background-color:rgb(234,181,165) ;
+ padding-left: 90px;
+ padding-right: 90px;
+ margin: 10px;
+ color: dimgrey;
+}
+a:hover{
+ background-color:rgb(205,146,132) ;
+}
+
+
+/* Page3 */
+body{
+ background-color: rgb(165,162,190);
+}
+p1{
+ font-size: 30px;
+}
+.col{
+ width: 50%;
+ float: left;
+}
+img{
+ width: 65%;
+ margin: -50px;
+ padding: 70px;
+ margin-left: 8px;
+}
+p{
+ border: 10px double rgb(65, 65, 120);
+ font-size: 18px;
+ background-color:rgb(234,181,165) ;
+ padding: 30px;
+ padding-left: 100px;
+ padding-right: 100px;
+ margin: 40px;
+ color: dimgrey;
+ width: 60%;
+}
+h3{
+ border: 10px solid rgb(65, 65, 120);
+ padding: 20px;
+ width: 61%;
+}
+div1{
+ font-size: 30px;
+}
+div2{
+ width: 50%;
+ margin: -20px;
+ padding: 55px;
+ margin-left: -70px;
+}
+div3{
+ width: 50%;
+ margin: -20px;
+ padding: 55px;
+ margin-left: -70px;
+}
